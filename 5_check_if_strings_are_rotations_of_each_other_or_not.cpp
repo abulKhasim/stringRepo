@@ -14,3 +14,5 @@ bool areRotations(string s1, string s2)
             return false;
     }
 }
+
+// this problem can alse solve uisng KMP Algo (string pattern matching)
